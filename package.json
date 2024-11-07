@@ -1,0 +1,23 @@
+{
+  "name": "design-pattern-typescript",
+  "version": "1.0.0",
+  "description": "Design Pattern With Typescript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "(npx parcel ./index.html) & npx parcel watch ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanchaldhingra/design-pattern-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanchaldhingra/design-pattern-typescript/issues"
+  },
+  "homepage": "https://github.com/chanchaldhingra/design-pattern-typescript#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "prettier": "3.3.3"
+  }
+}
